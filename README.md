@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on '?'
 - 📫 How to reach me 'you can leave a message to my gmail (rodriguezlorence@gmail.com)'
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i love 🐱
+- ⚡ Fun fact: i love 🐱's
 
 <!---
 codebylorence/codebylorence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
