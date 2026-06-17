@@ -1,50 +1,64 @@
-👋 Hi, I'm Your Name
-💻 Software Developer | Information Technology Graduate
+# Hi there, I'm [Your Name] 👋
 
-Passionate about building web applications, automation tools, and management systems that solve real-world problems. I enjoy developing full-stack applications and continuously learning modern technologies.
+### Full-Stack Developer | Building clean, scalable, and professional web applications
 
-🚀 About Me
-🔭 Currently building Inventory Management Systems and Business Applications
-🌱 Learning Laravel, Node.js, and modern web development practices
-💡 Interested in Full-Stack Development and Process Automation
-📍 Philippines
-🛠 Tech Stack
-Frontend
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap" /> </p>
-Backend
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" /> </p>
-Database
-<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,sqlite" /> </p>
-Programming Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=javascript,php,cs" /> </p>
-Tools & Technologies
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" /> </p>
-📂 Featured Projects
-📦 Excel Report Archiver
+Welcome to my GitHub! I am a full-stack developer passionate about creating efficient backend architectures and elegant, mobile-responsive user interfaces. I enjoy turning complex problems into organized, professional solutions.
 
-Automates the archival of empty Excel reports into organized date-based directories.
+---
 
-Tech Stack: Python • Excel Automation
+### 🛠️ Tech Stack & Tools
 
-🔐 SecureAttend
+**Languages & Frameworks:**
+*   **Frontend:** React.js, Tailwind CSS, HTML5, CSS3
+*   **Backend:** Node.js, Express.js, Python
+*   **Database & ORM:** Sequelize ORM, [Add SQL/NoSQL databases here]
 
-Biometric attendance management system using fingerprint authentication.
+**Tools & Environment:**
+*   **Version Control:** Git, GitHub
+*   **Integrations:** Cloudinary, [Add other tools here]
 
-Tech Stack: C# • WPF • SQLite • ZKTeco SDK
+---
 
-🏍 Motorcycle Tire Inventory System
+### 🚀 Featured Projects
 
-Inventory management system designed for tracking motorcycle tire brands, models, and sizes.
+**[U-RENT 2.0 (MGC Apartment Monitoring System)](#)**
+*A comprehensive full-stack application for managing apartment units.*
+*   Developed a custom dashboard for monitoring unit occupancy and managing rental contracts.
+*   Integrated tenant maintenance requests with professional UI elements and built a backend utilizing Sequelize models.
+*   Implemented secure PDF document handling using Cloudinary.
 
-Tech Stack: Laravel • PHP • MySQL
+**[E-Library Management System](#)**
+*An academic library management solution tailored for university use.*
+*   Designed a clean, responsive navigation system and secure login portal.
+*   Focused on mobile-responsive UI/UX design to ensure accessibility across all student devices.
 
-🏦 Cooperative Financial and Transaction Management System
+**[mHub Excel Report Archiver](#)**
+*A lightweight Python-based automation tool.*
+*   Developed a script compiled into a Windows executable to automatically scan production folders.
+*   Engineered precision archiving logic to target and move specific Excel files (e.g., filtering out 5KB empty reports) without disrupting parent directory structures.
 
-A web-based system for managing loans, shares, payments, and member information.
+---
 
-Tech Stack: React • Node.js • Express • MySQL
+### 📈 GitHub Stats
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/> </p>
-🌐 Connect With Me
-<p align="left"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
+<!-- You can customize these stats widgets by replacing 'your-github-username' with your actual username -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+*   **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+*   **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+*   **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+<!-- Optional: Add a fun fact or current focus -->
+⚡ *Currently focusing on:* Refining my UI/UX design skills and exploring new full-stack architectures.
