@@ -18,6 +18,6 @@ I'm an IT graduate and aspiring **Web Developer** passionate about building resp
 
 ## 🔗 Links
 
-- **Portfolio:** [Visit My Portfolio](https://your-portfolio-url.com)
-- **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/your-username/)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Portfolio:** [https://rodriguez-portfolio-bay.vercel.app/)
+- **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/lorence-rodriguez-31042b421/)
+- **Email:** [lorencerodriguez.dev@gmail.com](mailto:lorencerodriguez.dev@gmail.com)
